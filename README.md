@@ -41,7 +41,7 @@ The core logic is based on the **Backtracking Algorithm**, which works as follow
 
 ✍️ Author
 
-Created by [Navya Pasunuri].
+Created by Navya Pasunuri.
 📜 License
 
 This project is licensed under the MIT License.
